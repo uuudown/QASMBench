@@ -117,7 +117,8 @@ Quantum circuits using more than **15** qubits.
 | class_number | Compute the class group of a real quadratic number field | Hidden Subgroups | 60052 | 31110504 | 12460637 | [Scaffold](https://github.com/epiqc/ScaffCC) |
 
 ### qelib1.inc
-OpenQASM header file that defines all the gates. Please see [OpenQASM](https://github.com/Qiskit/openqasm) and our [paper]((qasmbench.pdf) for details.
+OpenQASM header file that defines all the gates. Please see [OpenQASM](https://github.com/Qiskit/openqasm) and our [paper](qasmbench.pdf) for details.
+
 
 ## QASMBenchmark Suite Structure
 Each benchmark folder include the following file:
@@ -167,7 +168,7 @@ Bibtex:
 
 ## License
 
-This project is licensed under the Apache License 2.0, see [LICENSE] file for details.
+This project is licensed under the Apache License 2.0, see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
