@@ -168,7 +168,7 @@ Bibtex:
 
 ## License
 
-This project is licensed under the Apache License 2.0, see [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD License, see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
