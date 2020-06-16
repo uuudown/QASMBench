@@ -6,7 +6,7 @@ A low-level OpenQASM benchmark suite for NISQ evaluation and simulation. Please 
 
 ## Current version
 
-Latest version: **1.0**
+Latest version: **1.1**
 
 ## About QASMBench
 
