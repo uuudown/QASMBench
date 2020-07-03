@@ -136,9 +136,13 @@ If you see "*bench_sim*" with a "**sim**" suffix, it means the results are gener
 
 The small-scale benchmarks (except basis-trotter) can be directly uploaded and verified on real Quantum Machines [IBM Quantum Experience](https://quantum-computing.ibm.com/).
 
-The medium-scale benchmarks can be either validated by real quantum machines or simulators in [IBM Quantum Experience](https://quantum-computing.ibm.com/) and [DM-Sim](https://github.com/pnnl/DM-Sim).
+The medium-scale benchmarks can be either validated by real quantum machines or simulators in [IBM Quantum Experience](https://quantum-computing.ibm.com/).
 
 Some of the large-scale benchmarks can be validated on IBM simulators. 
+
+## DM-Sim simulation
+
+You may also want to use our density-matrix quantum circuit simulator [DM-Sim](https://github.com/pnnl/DM-Sim) for simulating the QASMBench benchmark circuits efficiently modern GPU workstation like DGX-1 or GPU clusters like Oak-Ridge Summit Supercomputer. Note, although we provided the .cuh file, you may still need to run the "dmsim_qasm_ass.py" to convert the OpenQASM file to a DM-Sim header file for successful simulation.
 
 
 ## Authors 
