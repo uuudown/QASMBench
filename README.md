@@ -142,7 +142,7 @@ Some of the large-scale benchmarks can be validated on IBM simulators.
 
 ## DM-Sim simulation
 
-You may also want to use our density-matrix quantum circuit simulator [DM-Sim](https://github.com/pnnl/DM-Sim) for simulating the QASMBench benchmark circuits efficiently modern GPU workstation like DGX-1 or GPU clusters like Oak-Ridge Summit Supercomputer. Note, although we provided the .cuh file, you may still need to run the "dmsim_qasm_ass.py" to convert the OpenQASM file to a DM-Sim header file for successful simulation.
+You may also want to use our density-matrix quantum circuit simulator [DM-Sim](https://github.com/pnnl/DM-Sim) for simulating the QASMBench benchmark circuits efficiently on modern GPU workstation like DGX-1 or GPU clusters like Oak-Ridge Summit Supercomputer. Note, although we provided the .cuh file, **you may still need to run the "dmsim_qasm_ass.py" to convert the OpenQASM file to a DM-Sim header file for successful simulation**.
 
 
 ## Authors 
