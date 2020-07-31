@@ -77,6 +77,7 @@ Qunatum circuits using **2 to 5** qubits.
 | qrng | Quantum random number generator | Quantum Arithmetic | 4 | 4 | 0 | [Paper](https://arxiv.org/abs/1906.04410), [Repo](https://github.com/kentarotamura612/QRNG-benchmarking) |
 | qaoa | Quantum approximate optimization algorithm | Search and Optimization | 3 | 15 | 6 | [Repo](https://github.com/jtiosue/QAOAPython) |
 | quantumwalks | Quantum walks on graphs with up to 4 nodes | Quantum Walk | 2 | 11 | 3 | [Repo](https://github.com/raffmiceli/Quantum_Walks) |
+| dnn | 3 layer quantum neural network sample | Machine Learning | 2 | 226 | 42 | Provided by Samuel Stein and Ying Mao using [Tensorflow Quantum](https://www.tensorflow.org/quantum) |
 
 
 ### Medium-scale
@@ -100,6 +101,7 @@ Quantum circutis using **6 to 15** qubits.
 | qaoa | Quantum approximate optimization algorithm | Search and Optimization | 6 | 270 | 54 | [Cirq](https://github.com/quantumlib/cirq) |
 | bb84 | A quantum key distribution circuit | Quantum Communication | 8 | 27 | 0 | [Cirq](https://github.com/quantumlib/cirq) |
 | multipler | Quantum multipler | Quantum Arithmetic | 15 | 574 | 246 | [Cirq](https://github.com/quantumlib/cirq) |
+| dnn | 16-dimension quantum neural network sample | Machine Learning | 8 | 1008 | 192 | Provided by Samuel Stein and Ying Mao using [Tensorflow Quantum](https://www.tensorflow.org/quantum) |
 
 
 
@@ -112,6 +114,7 @@ Quantum circuits using more than **15** qubits.
 | ising | Ising model simulation via QC | Quantum Simulation | 500 | 5494 | 998 | [Scaffold](https://github.com/epiqc/ScaffCC) |
 | ising | Ising model simulation via QC | Quantum Simulation | 1000 | 10994 | 1998 | [Scaffold](https://github.com/epiqc/ScaffCC) |
 | bigadder | Quantum ripple-carry adder | Quantum Arithmetic | 18 | 284 | 130 | [OpenQASM](https://github.com/Qiskit/openqasm)                                                                         |
+| dnn | quantum neural network sample | Machine Learning | 16 | 2016 | 384 | Provided by Samuel Stein and Ying Mao using [Tensorflow Quantum](https://www.tensorflow.org/quantum) |
 | bv | Bernstein-Vazirani algorithm | Hidden Subgroup | 19 | 56 | 18 | [OpenQASM](https://github.com/Qiskit/openqasm) |
 | cc | Counterfeit coin finding problem via QC | Hidden Subgroup | 18 | 34 | 17 | [OpenQASM](https://github.com/Qiskit/openqasm) |
 | qft | Quantum Fourier tranform | Hidden Subgroup | 20 | 970 | 380 | [OpenQASM](https://github.com/Qiskit/openqasm) |
