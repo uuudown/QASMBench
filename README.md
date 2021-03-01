@@ -184,7 +184,7 @@ This project is licensed under the BSD License, see [LICENSE](LICENSE) file for 
 
 ## Acknowledgments
 
-We thank the many developers and open-source community for providing these awesome quantum circuits online so we are able to collect and form this benchmark suite. This work was originally supported by PNNL's *Quantum Algorithms, Software, and Architectures* (QUASAR) LDRD Initiative. It is now supported by U.S. DOE *Co-design Center for Quantum Advantage* [C2QA](https://www.bnl.gov/quantumcenter/) Quantum Information Science (QIS) center XCITe crosscut. The Pacific Northwest National Laboratory (PNNL) is operated by Battelle for the U.S. Department of Energy (DOE) under contract DE-AC05-76RL01830. 
+We thank the many developers and open-source community for providing these awesome quantum circuits online so we are able to collect and form this benchmark suite. This work was originally supported by PNNL's *Quantum Algorithms, Software, and Architectures* (QUASAR) LDRD Initiative. It is now supported by U.S. DOE *Co-design Center for Quantum Advantage* ([C2QA](https://www.bnl.gov/quantumcenter/)) Quantum Information Science (QIS) center XCITe crosscut. The Pacific Northwest National Laboratory (PNNL) is operated by Battelle for the U.S. Department of Energy (DOE) under contract DE-AC05-76RL01830. 
 
 ## Contributing
 
