@@ -1,4 +1,4 @@
-# QASMBench Benchmark Suite
+# QASMBench is moved to [PNNL-QAMSBench](https://github.com/pnnl/qasmbench).
 
 An OpenQASM benchmark suite for NISQ evaluation. The .qasm code can be directly loaded in [IBM Quantum Experience](https://quantum-computing.ibm.com/) for execution. Please see our paper ([attached](qasmbench.pdf) and [arXiv](https://arxiv.org/abs/2005.13018)) for details.
 
